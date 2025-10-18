@@ -3,8 +3,6 @@
 
 A basic modern calculator built with vanilla JavaScript, HTML5, and CSS3. Features a responsive design with a dark theme and pink accents for optimal user experience.
 
-![Calculator Preview](https://via.placeholder.com/400x500/1a1a1a/e43878?text=Calculator+App)
-
 ## ✨ Features
 
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division
