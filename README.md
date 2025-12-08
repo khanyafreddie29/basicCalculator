@@ -1,7 +1,7 @@
 # basicCalculator
 # Calculator Web Application
 
-A basic modern calculator built with vanilla JavaScript, HTML5, and CSS3. Features a responsive design with a dark theme and pink accents for optimal user experience.
+A basic modern calculator built with vanilla JavaScript, HTML5, and CSS3.
 
 ## ✨ Features
 
