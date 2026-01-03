@@ -11,7 +11,6 @@ A basic modern calculator built with vanilla JavaScript, HTML5, and CSS3.
 - **Decimal Support**: Floating-point number calculations
 - **Dual Display**: Shows both current and previous operations
 - **Responsive Design**: Centered layout that works on all screen sizes
-- **Modern UI**: Dark theme with pink accents and hover effects
 - **Error Handling**: Prevents invalid operations and multiple decimals
 
 ## 🛠️ Tech Stack
@@ -29,10 +28,11 @@ A basic modern calculator built with vanilla JavaScript, HTML5, and CSS3.
    cd basicCalculator
 
 ## Project Structure
-   fullstackProject/
+```basicCalculator/
 ├── index.html          # Main HTML structure
 ├── calculator.css      # Styles and responsive design
 └── calculator.js       # Calculator logic and functionality
+```
 ## 🎯 Usage
 Usage involves a basic input of arithmetic operations.
 Input: 15 + 7
